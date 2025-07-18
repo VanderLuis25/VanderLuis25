@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o Vander Luis, atualmente sou alunoo do DevClub, e curso Engenharia da computação pela univep,
+Eu sou o Vander Luis, atualmente sou aluno do DevClub, e curso Engenharia da computação pela Univep,
 com objetivo de me tornar um Desenvolvedor Web, estou aprendendo e criando projetos com:
 - <img  width="100px" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="logo-html" > - <img width="78px" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="logo-css">
 - E iniciando o aprendizado de:
